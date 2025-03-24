@@ -5,7 +5,8 @@
 <h1 align="center">🚀Youareanidiot 🚀</h1>
 
 ## 🔥 ~ Features
-```Cannot be turned off
+```
+- Cannot be turned off
 - Moves around
 - Copies itself to Startup
 ```
