@@ -34,3 +34,9 @@
 > Python(Mac/Linux)
 ```
 
+## ⚙️ ~ FOR EDUCATIONAL PURPOSES ONLY
+```ts
+1.I'm not held responsible for your actions and consequences!
+2.Do it at your own Risk!
+3.It is only a prank and should only be used for educational purposes and with the consent of the person!
+```
